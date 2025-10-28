@@ -6,3 +6,5 @@ This repository contains a Weather App that provides real-time weather informati
 HTML
 CSS
 JavaScript
+
+Preview:- https://sushmithamonthero.github.io/Weather-App/
